@@ -2,7 +2,7 @@
 ## Akari Azusagawa @ github-dev
 
 properties() { '
-kernel.string=MoeKernel by whyakari
+kernel.string=QSRKSU Kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
